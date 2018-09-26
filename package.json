@@ -16,7 +16,7 @@
     "react-flip-move": "^3.0.2"
   },
   "engines": {
-    "node" : "8.11.3"
+    "node": "8.11.3"
   },
   "meteor": {
     "mainModule": {
