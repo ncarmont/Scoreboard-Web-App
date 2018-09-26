@@ -1,4 +1,4 @@
-# Fantasy Football Web-app
+# Fantasy-Football Web App
 
 A scoreboard app built using Meteor and React.
 
