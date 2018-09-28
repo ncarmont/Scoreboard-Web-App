@@ -8,4 +8,4 @@ Link to web version: https://short-lnk-ncarmont.herokuapp.com/
 Nicolas Carmont
 
 ## Demo
-![](score-keep-functionality.gif)
+![](scorekeep-functionality.gif)
