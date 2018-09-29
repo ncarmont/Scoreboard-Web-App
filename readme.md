@@ -1,11 +1,11 @@
 # Scoreboard Web App
 
 A scoreboard app built using Meteor and React.
-Link to web version: https://short-lnk-ncarmont.herokuapp.com/
+Link to web version: https://scoreboard-ncarmont.herokuapp.com/
 
 ## Authors
 
 Nicolas Carmont
 
 ## Demo
-![](scorekeep-functionality.gif)
+![](scorekeep-demo.gif)
